@@ -16,19 +16,19 @@ const blogConfig = {
         name: '蓝斯Van',
         avatar: 'https://cdn.jsdelivr.net/gh/Austyncleo/Img_picgo@main/notes/course/avatar.jpg',
         email: 's1xnevo.me@gmail.com',
-        homepage: 'https://www.zhilu.cyou/',
+        homepage: 'https://www.cnblogs.com/s1xnEvo',
     },
     copyright: {
         abbr: 'CC BY-NC-SA 4.0',
         name: '署名-非商业性使用-相同方式共享 4.0 国际',
         url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
     },
-    favicon: 'https://www.zhilu.cyou/api/icon.png',
+    favicon: 'https://cdn.jsdelivr.net/gh/Austyncleo/Img_picgo@main/notes/course/favicon.png',
     language: 'zh-Hans',
     qqGroup: '169994096',
-    timeEstablished: '2019-07-19',
+    timeEstablished: '2025-06-14',
     timezone: 'Asia/Shanghai',
-    url: 'https://blog.zhilu.cyou/',
+    url: 'https://blog-ucen.vercel.app/',
 
     feed: {
         limit: 50,
@@ -39,8 +39,8 @@ const blogConfig = {
 
     imageDomains: [
         // 自动启用本域名的 Nuxt Image
-        // 'www.zhilu.cyou',
-        // '7.isyangs.cn',
+        // 'blog-ucen.vercel.app',
+        // ' ',
     ],
 
     // 禁止搜索引擎收录的路径
@@ -67,8 +67,8 @@ const blogConfig = {
     twikoo: {
         js: 'https://gcore.jsdelivr.net/npm/twikoo@1.6.40/dist/twikoo.all.min.js',
         // 自己部署的 Twikoo 服务
-        envId: 'https://twikoo.zhilu.cyou/',
-        preload: 'https://twikoo.zhilu.cyou/',
+        envId: 'https://twikoo-vercel-bice.vercel.app/',
+        preload: 'https://twikoo-vercel-bice.vercel.app/',
     },
 }
 
