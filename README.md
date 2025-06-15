@@ -7,7 +7,8 @@
 ![代码风格](https://img.shields.io/badge/代码风格-ESLint-4B32C3?logo=ESLint)
 ![代码风格](https://img.shields.io/badge/代码风格-Stylelint-263238?logo=Stylelint)
 
-发现了一个设计很不错的博客主题，虽然我是新手小白，还是决定试一试😆
+发现了一个设计很不错的博客主题，虽然我是新手小白，还是决定试一试😆<br>
+(悄咪咪说一句：要是有使用文档就好了，技术小白啥都看不懂啊啊啊啊 
 
 ## 使用本主题的博客
 
