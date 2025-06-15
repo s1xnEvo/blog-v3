@@ -12,14 +12,14 @@
 ## 使用本主题的博客
 
 - [纸鹿摸鱼处 @L33Z22L11](https://blog.zhilu.cyou/) · [开发经历](https://blog.zhilu.cyou/2024/blog-using-nuxt)
-- [希乐博客 @Xlenco](https://blog.xlenco.top/)
-- [SteinsNote @Labmem-00](https://blog.labmem.chat/) · [迁移经历](https://blog.labmem.chat/2024/beforeeverything)
-- [月空人 @Whbbit1999](https://whbbit.cn/) · [迁移评价](https://whbbit.cn/2025/why-migrate-to-nuxt)
-- [地球驿站 @mugzx](https://blog.mugzx.top/) · [迁移记录](https://blog.mugzx.top/)
-- [喵落阁 @Kemeow815](https://blog-v3.kemeow.top/)
-- [梦爱吃鱼 @JLinmr](https://blog.ruom.top/)
-- [Mikuの极光星 @PaloMiku](https://blog.sotkg.com/)
-- [BiuXin-s Blog](https://zhilu.biuxin.com/)
+- [希乐博客 @Xlenco](https://blog.xlenco.top/) <br> ↗ 博客统计添加访问量、访问数
+- [SteinsNote @Labmem-00](https://blog.labmem.chat/) · [迁移经历](https://blog.labmem.chat/2024/beforeeverything) <br> ↗ 添加专栏页面，添加全局飘雪动画和开关，修改明暗模式开关，增加文章目录的滚动进度指示条，添加主页的时间显示，添加markdown页脚插件，开关store上添加分类开关（辅以一个分类组件，一点点弹跳的spring动画、背景透明度、高斯模糊👍）
+- [月空人 @Whbbit1999](https://whbbit.cn/) · [迁移评价](https://whbbit.cn/2025/why-migrate-to-nuxt) <br> ↗ 添加自述和作品页面，页脚添加虫洞和参与项目列
+- [地球驿站 @mugzx](https://blog.mugzx.top/) · [迁移记录](https://blog.mugzx.top/) <br> ↗ 添加介绍页-我与驿站，博客页面取名有趣 ☃
+- [喵落阁 @Kemeow815](https://blog-v3.kemeow.top/) <br> ↗ 添加游戏、番剧、影视、关于页面，添加相册和说说页链接
+- [梦爱吃鱼 @JLinmr](https://blog.ruom.top/) <br> ↗ 添加鱼塘、留言、瞬间页面，页脚添加揪蝉，侧边栏添加最新评论，可访问性卡片添加背景图，更新日志添加时间线
+- [Mikuの极光星 @PaloMiku](https://blog.sotkg.com/) <br> ↗ 修改全局字体，添加游戏、云盘、关于页面
+- [BiuXin-s Blog](https://zhilu.biuxin.com/) <br> ↗ 修改全局字体，添加鱼塘、留言、说说页面，页脚添加揪蝉，侧边栏添加最新评论，可访问性卡片添加背景图，更新日志添加时间线
 
 ## 特性
 
