@@ -1,4 +1,4 @@
-# 纸鹿摸鱼处
+# 雾蓝星澈
 
 ![框架](https://img.shields.io/badge/框架-Nuxt-00DC82?logo=Nuxt.js)
 ![CMS](https://img.shields.io/badge/CMS-Nuxt%20Content-00DC82?logo=Nuxt.js)
@@ -7,7 +7,7 @@
 ![代码风格](https://img.shields.io/badge/代码风格-ESLint-4B32C3?logo=ESLint)
 ![代码风格](https://img.shields.io/badge/代码风格-Stylelint-263238?logo=Stylelint)
 
-我的第三代个人博客，于 2024 年 8 月 11 日上线。
+发现了一个设计很不错的博客主题，虽然我是新手小白，还是决定试一试😆
 
 ## 使用本主题的博客
 
