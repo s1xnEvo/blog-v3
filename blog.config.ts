@@ -23,7 +23,7 @@ const blogConfig = {
         name: '署名-非商业性使用-相同方式共享 4.0 国际',
         url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
     },
-    favicon: 'https://cdn.jsdelivr.net/gh/Austyncleo/Img_picgo@main/notes/course/favicon.png',
+    favicon: 'https://cdn.jsdelivr.net/gh/Austyncleo/Img_picgo@main/notes/course/favicon-2.png',
     language: 'zh-Hans',
     qqGroup: '169994096',
     timeEstablished: '2025-06-14',
